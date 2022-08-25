@@ -1,3 +1,3 @@
-<h1> References </h1>
+# References
 
-- octocat:smiling_imp:
+- octocat :smiling_imp:
